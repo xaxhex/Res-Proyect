@@ -4,7 +4,7 @@
       "position": "1",
       "driverId": "Max verstappen",
       "points": "277",
-      "driver": 1
+      "driver": "1"
       }
     {
       "position": "2",
@@ -118,13 +118,13 @@
       "position": "20",
       "driverId": "Logan sargeant",
       "points": "0",
-      "driver": 20
+      "driver": "20"
       }
     {
       "position": "21",
       "driverId": "valtteri bottas",
       "points": "0",
-      "driver": 21
+      "driver": "21"
       }
   ]
 }
