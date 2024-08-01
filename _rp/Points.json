@@ -26,6 +26,7 @@
       "driverId": "Oscar piastri",
       "points": "167",
       "driver": "4"
+      }
     },
     {
       "position": "5",
@@ -137,7 +138,8 @@
       "driverId": "Logan sargeant",
       "points": "0",
       "driver": 20
-      },
+      }
+    },
     {
       "position": "21",
       "driverId": "valtteri bottas",
