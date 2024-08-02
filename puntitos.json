@@ -1,8 +1,8 @@
 {
-  "Pilotos": [
+  "pilotos": [
     {
       "driver": "1",
-      "driverId": "Res-Proyect",
+      "name": "Res-Proyect",
       "points": "33",
       "position": "1"
     },
