@@ -14,7 +14,7 @@
       "position": "1"
     },
     {
-      "driver": "3"
+      "driver": "3",
       "DriverId": "Lando norris",
       "points": "199",
       "position": "2"
@@ -124,13 +124,13 @@
     {
       "driver": "21",
       "driverId": "Logan sargeant",
-      "points": "0"
+      "points": "0",
       "position": "20"
     },
     {
-      "driver": "22"
+      "driver": "22",
       "driverId": "valtteri bottas",
-      "points": "0"
+      "points": "0",
       "position": "21"
     }
   ]
