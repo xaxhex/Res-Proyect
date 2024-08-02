@@ -2,8 +2,8 @@
   "drivers": [
     {
       "position": "1",
-      "name": "",
-      "points": "",
+      "name": "example",
+      "points": "0",
       "driver": 0
     },
         {
