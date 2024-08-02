@@ -20,55 +20,55 @@
     },
     {
       "drive": "4",
-      "DriverId": "Charles leclerc",
+      "driverid": "Charles leclerc",
       "points": "177",
       "position": "3"
     },
     {
       "drive": "5",
-      "DriverId": "Oscar piastri",
+      "driverid": "Oscar piastri",
       "points": "167",
       "position": "4"
     },
     {
       "drive": "6",
-      "driverId": "Carlos-sainz",
+      "driverid": "Carlos-sainz",
       "points": "162",
       "position": "5"
     },
     {
       "drive": "7",
-      "driverId": "Lewis hamilton",
+      "driverid": "Lewis hamilton",
       "points": "150",
       "position": "6"
     },
     {
       "drive": "8",
-      "driverId": "Sergio perez",
+      "driverid": "Sergio perez",
       "points": "131",
       "position": "7"
     },
     {
       "drive": "9",
-      "driverId": "George russell",
+      "driverid": "George russell",
       "points": "116",
       "position": "8"
     },
     {
       "drive": "10",
-      "driverId": "Fernando alonso",
+      "driverid": "Fernando alonso",
       "points": "49",
       "position": "9"
     },
     {
       "drive": "11",
-      "driverId": "Lance stroll",
+      "driverid": "Lance stroll",
       "points": "24",
       "position": "10"
     },
     {
       "drive": "12",
-      "driverId": "Nico hulkenberg",
+      "driverid": "Nico hulkenberg",
       "points": "22",
       "position": "11"
     },
