@@ -1,28 +1,28 @@
 {
-  "races": [
+  "drivers": [
     {
       "position": "1",
       "name": "Max verstappen",
       "points": "277",
-      "round": 1
+      "driver": 1
     },
     {
       "position": "2",
       "name": "Lando norris",
       "points": "199",
-      "round": "2"
+      "driver": "2"
     },
     {
       "position": "3",
       "name": "Charles leclerc",
       "points": "177",
-      "round": "3"
+      "driver": "3"
     },
     {
       "position": "4",
       "name": "Oscar piastri",
       "points": "167",
-      "round": "4"
+      "driver": "4"
     },
     {
       "position": "5",
