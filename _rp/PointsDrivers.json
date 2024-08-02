@@ -2,7 +2,7 @@
   "pilotos": [
     {
       "drive": "1",
-      "name": "Res-Proyect",
+      "driverid": "Res-Proyect",
       "points": "33",
       "position": "0"
     },
