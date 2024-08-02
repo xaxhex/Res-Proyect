@@ -7,15 +7,14 @@
       "position": "0"
     },
         {
-      "drive": "2"
-      "position": "1",
+      "drive": "2",
       "DriverId": "Max verstappen",
       "points": "277",
       "position": "1"
     },
     {
-      "driver: "3",
-      "DriverId": "Lando norris",
+      "drive": "3",
+      "driverid": "Lando norris",
       "points": "199",
       "position": "2"
     },
