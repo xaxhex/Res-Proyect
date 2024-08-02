@@ -1,6 +1,12 @@
 {
   "drivers": [
     {
+      "position": "",
+      "name": "",
+      "points": "",
+      "driver": 
+    },
+        {
       "position": "1",
       "name": "Max verstappen",
       "points": "277",
