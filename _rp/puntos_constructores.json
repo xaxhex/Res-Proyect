@@ -1,6 +1,5 @@
 {
-  "Clasificacion": "2024",
-    "Results": [
+    "Clasificacion-2024": [
       {
         "id": "red-bull",
         "name": "Red Bull",
@@ -41,6 +40,7 @@
         "wins": 0
         "year": 2024
       },
+      {
         "id": "mclaren",
         "name": "McLaren",
         "positionText": "2",
