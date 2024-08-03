@@ -10,10 +10,12 @@
       "localeKey": "bahrain-grand-prix",
       "sessions": {
         "fp1": "2024-02-29T11:30:00Z",
+        "Other1": "Jueves 29 Febrero 11:30",
         "fp2": "2024-02-29T15:00:00Z",
         "fp3": "2024-03-01T12:30:00Z",
         "qualifying": "2024-03-01T16:00:00Z",
-        "gp": "2024-03-02T15:00:00Z"
+        "gp": "2024-03-02T15:00:00Z",
+        "Other GP": "Domingo 2 Febrero 15:00"
       }
     },
     {
