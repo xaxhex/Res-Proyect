@@ -4,111 +4,100 @@
       "name": "Res-Proyect",
       "constructor": "Aston Martin",       
       "engine": "Honda ASM",
-      "points": 333,
-      "position": 1,
-      "wins": 33
-      "year": 2026
+      "points": "333",
+      "position": "1",
+      "wins": "33",
+      "year": "2026"
     },
     {
-      "id": "red-bull",
       "name": "Red Bull",
       "constructor": "red-bull",       
       "engine": "honda-rbpt",
-      "points": 408,
-      "position": 1,
-      "wins": 7
-      "year": 2024
+      "points": "408",
+      "position": "1",
+      "wins": "7",
+      "year": "2024"
     },
     {
-      "id": "red-bull",
       "name": "Red Bull",
       "constructor": "red-bull",       
       "engine": "honda-rbpt",
-      "points": 408,
-      "position": 1,
-      "wins": 7
-      "year": 2024
+      "points": "408",
+      "position": "1",
+      "wins": "7",
+      "year": "2024"
     },
     {
-      "id": "mercedes",
       "name": "Mercedes",
       "constructor": "mercedes",
       "engine": "mercedes",
-      "points": 266,
-      "position": 4,
-      "wins": 3
-      "year": 2024
+      "points": "266",
+      "position": "4",
+      "wins": "3",
+      "year": "2024"
     },
     {
-      "id": "aston-martin",
       "name": "Aston Martin",
       "constructor": "aston-martin",
       "engine": "mercedes",
-      "points": 73,
-      "position": 5,
-      "wins": 0
-      "year": 2024
+      "points": "73",
+      "position": "5",
+      "wins": "0",
+      "year": "2024"
     },
     {
-      "id": "mclaren",
       "name": "McLaren",
-      "positionText": "2",
-      "constructorId": "mclaren",
+      "constructor": "mclaren",
       "engine": "mercedes",
-      "points": 366,
-      "position": 2,
-       "wins": 2
-      "year": 2024
+      "points": "366",
+      "position": "2",
+      "wins": "2",
+      "year": "2024"
     },
     {
-      "id": "alpine",
       "name": "Alpine",
-      "constructor": "alpine",
+      "constructor": "Alpine",
       "engine": "renault",
-      "points": 11,
-      "position": 8,
-      "wins": 0
-      "year": 2024
+      "points": "11",
+      "position": "8",
+      "wins": "0",
+      "year": "2024"
     },
     {
-      "id": "visa cash rb",
       "name": "RB",
-      "constructor": "rb",
+      "constructor": "Visa cash rb",
       "engine": "honda-rbpt",
-      "points": 34,
-      "position": 6,
-      "wins": 0
-      "year": 2024
+      "points": "34",
+      "position": "6",
+      "wins": "0",
+      "year": "2024"
     },
     {
-      "id": "kick-sauber",
       "name": "Kick Sauber",
-      "constructor": "kick-sauber",
+      "constructor": "Kick-Sauber",
       "engine": "ferrari",
-      "points": 0,
-      "position": 10,
-      "wins": 0
-      "year": 2024
+      "points": "0",
+      "position": "10",
+      "wins": "0",
+      "year": "2024"
     },
     {
-      "id": "haas",
-      "name": "Haas",,
+      "name": "Haas",
       "constructor": "haas",
       "engine": "ferrari",
-      "points": 27,
-      "position": 7,
-      "wins": 0
-      "year": 2024
+      "points": "27",
+      "position": "7",
+      "wins": "0",
+      "year": "2024"
     },
     {
-      "id": "williams",
       "name": "Williams",
       "constructor": "williams",
       "engine": "mercedes",
-      "points": 4,
-      "position": 9,
-      "wins": 0,
-      "year": 2024
+      "points": "4",
+      "position": "9",
+      "wins": "0",
+      "year": "2024"
     }
   ]
 }
