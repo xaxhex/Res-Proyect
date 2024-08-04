@@ -1,6 +1,22 @@
 {
   "races": [
     {
+      "name": "Res-Proyect",
+      "location": "Spain",
+      "latitude": "33.33",
+      "longitude": "45.1241",
+      "round": "1",
+      "slug": "Res-Proyect-Grand-Prix",
+      "localeKey": "thanks-for-use",
+      "sessions": {
+        "fp1": "",
+        "fp2": "",
+        "fp3": "",
+        "qualifying": "",
+        "gp": ""
+      }
+    },
+    {
       "name": "Bahrain",
       "location": "Sakhir",
       "latitude": "26.037",
