@@ -77,11 +77,11 @@
       }
     },
     {
-      "name": "GP Japon",
+      "name": "GP Japón",
       "location": "Suzuka",
       "latitude": "35.3689",
       "longitude": "138.9256",
-      "round": "18",
+      "round": "4",
       "slug": "japanese-grand-prix",
       "sessions": {
         "fp1": "2024-04-05T02:30:00Z",
@@ -101,7 +101,7 @@
       "location": "Shanghai",
       "latitude": "31.3807",
       "longitude": "121.2498",
-      "round": "3",
+      "round": "5",
       "slug": "chinese-grand-prix",
       "sessions": {
         "fp1": "2024-04-19T03:30:00Z",
@@ -141,7 +141,7 @@
       "location": "Imola",
       "latitude": "44.344576",
       "longitude": "11.713808",
-      "round": "4",
+      "round": "7",
       "slug": "emilia-romagna-grand-prix",
       "sessions": {
         "fp1": "2024-05-17T11:30:00Z",
@@ -157,7 +157,7 @@
       }
     },
     {
-      "name": "GP Monaco",
+      "name": "GP Mónaco",
       "location": "Monte Carlo",
       "latitude": "43.7338",
       "longitude": "7.4215",
@@ -177,11 +177,11 @@
       }
     },
     {
-      "name": "GP Canada",
+      "name": "GP Canadá",
       "location": "Montreal",
       "latitude": "45.5034",
       "longitude": "-73.5267",
-      "round": "10",
+      "round": "9",
       "slug": "canadian-grand-prix",
       "sessions": {
         "fp1": "2024-06-07T17:30:00Z",
@@ -201,7 +201,7 @@
       "location": "Catalunya",
       "latitude": "41.5638",
       "longitude": "2.2585",
-      "round": "9",
+      "round": "10",
       "slug": "spanish-grand-prix",
       "sessions": {
         "fp1": "2024-06-21T11:30:00Z",
@@ -277,7 +277,7 @@
       }
     },
     {
-      "name": "GP Belgica",
+      "name": "GP Bélgica",
       "location": "Spa-Francorchamps",
       "latitude": "50.444",
       "longitude": "5.9687",
@@ -337,11 +337,11 @@
       }
     },
     {
-      "name": "Azerbaijan",
+      "name": "GP Azerbaiyán",
       "location": "Baku",
       "latitude": "40.3699",
       "longitude": "49.8433",
-      "round": "5",
+      "round": "17",
       "slug": "azerbaijan-grand-prix",
       "sessions": {
         "fp1": "2024-09-13T09:30:00Z",
@@ -357,11 +357,11 @@
       }
     },
     {
-      "name": "Singapore",
+      "name": "GP Singapur",
       "location": "Singapore",
       "latitude": "1.2857",
       "longitude": "103.8575",
-      "round": "17",
+      "round": "18",
       "slug": "singapore-grand-prix",
       "sessions": {
         "fp1": "2024-09-20T09:30:00Z",
@@ -382,7 +382,7 @@
       "location": "Austin",
       "latitude": "30.1328",
       "longitude": "-97.6411",
-      "round": "20",
+      "round": "19",
       "slug": "us-grand-prix",
       "sessions": {
         "fp1": "2024-10-18T17:30:00Z",
@@ -402,7 +402,7 @@
       "location": "Mexico City",
       "latitude": "19.4028",
       "longitude": "-99.0986",
-      "round": "21",
+      "round": "20",
       "slug": "mexican-grand-prix",
       "sessions": {
         "fp1": "2024-10-25T18:30:00Z",
@@ -422,7 +422,7 @@
       "location": "Sao Paulo",
       "latitude": "-23.7014",
       "longitude": "-46.6969",
-      "round": "22",
+      "round": "21",
       "slug": "brazilian-grand-prix",
       "sessions": {
         "fp1": "2024-11-01T14:30:00Z",
@@ -442,7 +442,7 @@
       "location": "Las Vegas",
       "latitude": "36.166747",
       "longitude": "-115.148708",
-      "round": "23",
+      "round": "22",
       "slug": "las-vegas-grand-prix",
       "sessions": {
         "fp1": "2024-11-22T02:30:00Z",
@@ -458,11 +458,11 @@
       }
     },
     {
-      "name": "GP Qatar",
+      "name": "GP Catar",
       "location": "Doha",
       "latitude": "25.490292",
       "longitude": "51.45303",
-      "round": "19",
+      "round": "23",
       "slug": "qatar-grand-prix",
       "sessions": {
         "fp1": "2024-11-29T13:30:00Z",
