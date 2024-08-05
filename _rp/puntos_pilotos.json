@@ -34,8 +34,8 @@
       "idname": "RUS",
       "points": "116",
       "position": "8"
-    {
     },
+    {
       "drive": "5",
       "name": "Charles leclerc",
       "idname": "LEC",
@@ -104,7 +104,6 @@
       "idname": "TSU",
       "points": "22",
       "position": "12"
-
     },
     {
       "drive": "15",
