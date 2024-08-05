@@ -1,16 +1,14 @@
 {
-  "pilotos": [
+"pilotos": [
     {
-      "drive": "0",
       "name": "Res-Proyect",
-      "idname": "ZEN",
+      "drive": "1",
       "points": "33",
       "position": "1"
     },
     {
-      "drive": "1",
       "name": "Max verstappen",
-      "idname": "MAX",
+      "drive": "2",
       "points": "277",
       "position": "1"
     },
