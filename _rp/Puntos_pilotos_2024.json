@@ -168,5 +168,13 @@
       "points": "2",
       "position": "20"
     }
+        },
+    {
+      "drive": "24",
+      "name": "Fernando alonso",
+      "idname": "ALO2",
+      "points": "62",
+      "position": "9"
+    }
   ]
 }
