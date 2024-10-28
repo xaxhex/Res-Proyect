@@ -13,8 +13,8 @@
       "name": "Oracle Red Bull",
       "constructor": "Oracle Red Bull Racing",       
       "engine": "Honda-RBPT",
-      "points": "504",
-      "position": "2",
+      "points": "512",
+      "position": "3",
       "wins": "7",
       "year": "2024"
     },
@@ -22,7 +22,7 @@
       "name": "Mercedes-AMG",
       "constructor": "Mercedes-AMG Petronas F1",
       "engine": "Mercedes",
-      "points": "344",
+      "points": "566",
       "position": "4",
       "wins": "3",
       "year": "2024"
@@ -31,9 +31,9 @@
       "name": "Scuderia Ferrari",
       "constructor": "Scuderia Ferrari",
       "engine": "Ferrari",
-      "points": "496",
-      "position": "3",
-      "wins": "4",
+      "points": "537",
+      "position": "2",
+      "wins": "3",
       "year": "2024"
     },
     {
@@ -49,7 +49,7 @@
       "name": "McLaren",
       "constructor": "McLaren Formula 1",
       "engine": "Mercedes",
-      "points": "544",
+      "points": "566",
       "position": "1",
       "wins": "5",
       "year": "2024"
