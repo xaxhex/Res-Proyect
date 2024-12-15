@@ -1,3 +1,21 @@
 {
-  "fecha": "2024-12-31T00:00:00"
+  "name": "Premier League 2020/21",
+  "matches": [
+    {
+      "round": "Matchday 1",
+      "date": "2020-09-12",
+      "time": "12:30",
+      "team1": "Fulham FC",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    }
 }
