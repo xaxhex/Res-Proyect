@@ -1,9 +1,9 @@
 {
-  "name": "Premier League 2020/21",
-  "matches": [
+  "Temporada": "Premier League 2020/21",
+  "Circuitos": [
     {
       "round": "Matchday 1",
-      "date": "2020-09-12",
+      "Fecha": "2020-09-12",
       "time": "12:30",
       "team1": "Fulham FC",
       "team2": "Arsenal FC",
