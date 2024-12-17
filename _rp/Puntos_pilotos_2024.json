@@ -54,7 +54,10 @@
       "name": "Fernando alonso",
       "idname": "ALO",
       "points": "62",
-      "position": "9"
+      "position": "9",
+        "wins": "32",
+        "podiums" "106"
+        
     },
     {
       "drive": "8",
