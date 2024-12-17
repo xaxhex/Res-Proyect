@@ -12,42 +12,54 @@
       "name": "Max verstappen",
       "idname": "MAX",
       "points": "362",
-      "position": "1"
+      "position": "1",
+      "wins": "63",
+      "podiums": "112"  
     },
     {
       "drive": "2",
       "name": "Sergio perez",
       "idname": "PER",
       "points": "150",
-      "position": "8"
+      "position": "8",
+      "wins": "6",
+      "podiums": "39"  
     },
     {
       "drive": "3",
       "name": "Lewis hamilton",
       "idname": "HAM",
       "points": "189",
-      "position": "6"
+      "position": "6",
+      "wins": "105",
+      "podiums": "202"  
     },
     {
       "drive": "4",
       "name": "George russell",
       "idname": "RUS",
       "points": "177",
-      "position": "7"
+      "position": "7",
+      "wins": "3",
+      "podiums": "15"  
     },
     {
       "drive": "5",
       "name": "Charles leclerc",
       "idname": "LEC",
       "points": "291",
-      "position": "3"
+      "position": "3",
+      "wins": "8",
+      "podiums": "43"  
     },
     {
       "drive": "6",
       "name": "Carlos sainz",
       "idname": "SAI",
       "points": "240",
-      "position": "5"
+      "position": "5",
+      "wins": "4",
+      "podiums": "27"  
     },
     {
       "drive": "7",
@@ -64,35 +76,45 @@
       "name": "Lance stroll",
       "idname": "STR",
       "points": "24",
-      "position": "11"
+      "position": "11",
+      "wins": "0",
+      "podiums": "3"  
     },
     {
       "drive": "9",
       "name": "Lando norris",
       "idname": "NOR",
       "points": "315",
-      "position": "2"
+      "position": "2",
+      "wins": "4",
+      "podiums": "26"  
     },
     {
       "drive": "10",
       "name": "Oscar piastri",
       "idname": "PIA",
       "points": "251",
-      "position": "4"
+      "position": "4",
+      "wins": "2",
+      "podiums": "10"  
     },
     {
       "drive": "11",
       "name": "Esteban ocon",
       "idname": "OCO",
       "points": "5",
-      "position": "18"
+      "position": "18",
+      "wins": "1",
+      "podiums": "4"  
     },
     {
       "drive": "12",
       "name": "Pierre gasly",
       "idname": "GAS",
       "points": "9",
-      "position": "16"
+      "position": "16",
+      "wins": "1",
+      "podiums": "5"  
     },
     {
       "drive": "13",
@@ -106,7 +128,9 @@
       "name": "Yuki tsunoda",
       "idname": "TSU",
       "points": "22",
-      "position": "12"
+      "position": "12",
+      "wins": "0",
+      "podiums": "0"  
     },
     {
       "drive": "15",
@@ -127,7 +151,9 @@
       "name": "Nico hulkenberg",
       "idname": "HUL",
       "points": "29",
-      "position": "10"
+      "position": "10",
+      "wins": "0",
+      "podiums": "0"  
     },
     { 
       "drive": "18",
@@ -141,7 +167,9 @@
       "name": "Alexander albon",
       "idname": "ALB",
       "points": "12",
-      "position": "15"
+      "position": "15",
+      "wins": "0",
+      "podiums": "2"  
     },
     {
       "drive": "20",
@@ -155,7 +183,9 @@
       "name": "Oliver bearman",
       "idname": "BEA",
       "points": "6",
-      "position": "17"
+      "position": "17",
+      "wins": "0",
+      "podiums": "0"  
     },
     {
       "drive": "22",
@@ -169,7 +199,9 @@
       "name": "Liam lawson",
       "idname": "LAW",
       "points": "2",
-      "position": "20"
+      "position": "20",
+      "wins": "0",
+      "podiums": "0"  
     },
     {
       "drive": "24",
@@ -177,6 +209,33 @@
       "idname": "ALO2",
       "points": "62",
       "position": "9"
+    },
+    {
+      "drive": "25",
+      "name": "Kimi Andrea Antonelli",
+      "idname": "ANT",
+      "points": "0",
+      "position": "19",
+      "wins": "0",
+      "podiums": "0" 
+    },
+    {
+      "drive": "26",
+      "name": "Gabriel Bortoleto",
+      "idname": "BOR",
+      "points": "0",
+      "position": "20",
+      "wins": "0",
+      "podiums": "0" 
+    },
+    {
+      "drive": "27",
+      "name": "Jack Doohan",
+      "idname": "DOO",
+      "points": "0",
+      "position": "20",
+      "wins": "0",
+      "podiums": "0" 
     }
   ]
 }
