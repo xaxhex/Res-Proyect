@@ -1,0 +1,22 @@
+{
+  "Races-2025": [
+    {
+      "name": "Australian",
+      "location": "Melbourne",
+      "latitude": "-37.8373",
+      "longitude": "144.9666",
+      "round": "1",
+      "slug": "australian-grand-prix",
+      "sessions": {
+        "fp1": "2025-03-14T01:12:30Z",
+        "Other1": "Viernes 14 Marzo 12:30",
+        "fp2": "2024-03-22T05:000:00Z",
+        "Other2": "Viernes 14 Marzo 16:00",
+        "fp3": "2024-03-23T01:30:00Z",
+        "Other3": "Sabado 15 Marzo 12:30",
+        "qualifying": "2024-03-23T05:00:00Z",
+        "Other4": "Sabado 15 Marzo 16:00",
+        "gp": "2024-03-24T04:00:00Z",
+        "Other GP": "Domingo 2 Febrero 15:00"
+      }
+    },
