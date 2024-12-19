@@ -2,10 +2,10 @@
   "races": [
     {
       "name": "Res-Proyect",
-      "location": "España",
+      "location": "Spain",
       "latitude": "33.33",
       "longitude": "45.1241",
-      "round": "0",
+      "round": "1",
       "slug": "Res-Proyect-Grand-Prix",
       "localeKey": "thanks-for-use",
       "sessions": {
@@ -28,16 +28,16 @@
         "fp1": "2024-02-29T11:30:00Z",
         "fp2": "2024-02-29T15:00:00Z",
         "fp3": "2024-03-01T12:30:00Z",
-        "qualifying": "2024-03-02T15:00:00Z",
-        "Other1": "Viernes 11 de abril 14:30",
-        "Other2": "Viernes 11 de abril 18:00",
-        "Other3": "Sábado 12 de abril 14:30",
-        "Other4": "Sábado 12 de abril 18:00",
-        "OtherGP": "Domingo 13 de abril 18:00"
+        "gp": "2024-03-02T15:00:00Z",
+        "Other1" = "Viernes 29 de febrero 14:30",
+        "Other2" = "Viernes 29 de febrero 18:00",
+        "Other3" = "Sábado 1 de marzo 14:30",
+        "Other4" = "Sábado 1 de marzo 18:00",
+        "OtherGP" = "Domingo 2 de marzo 18:00"
       }
     },
     {
-      "name": "GP Arabia Saudita",
+      "name": "GP Arabia Saudi",
       "location": "Jeddah",
       "latitude": "21.485811",
       "longitude": "39.192505",
@@ -49,11 +49,11 @@
         "fp3": "2024-03-08T13:30:00Z",
         "qualifying": "2024-03-08T17:00:00Z",
         "gp": "2024-03-09T17:00:00Z",
-        "Other1": "Viernes 18 de abril 14:30",
-        "Other2": "Viernes 18 de abril 18:00",
-        "Other3": "Sábado 19 de abril 15:00",
-        "Other4": "Sábado 19 de abril 18:00",
-        "OtherGP": "Domingo 20 de abril 20:00"
+        "Other1" = "Viernes 8 de marzo 14:30",
+        "Other2" = "Viernes 8 de marzo 18:00",
+        "Other3" = "Sábado 9 de marzo 15:00",
+        "Other4" = "Sábado 9 de marzo 18:00",
+        "OtherGP" = "Domingo 10 de marzo 20:00",
       }
     },
     {
@@ -69,19 +69,19 @@
         "fp3": "2024-03-23T01:30:00Z",
         "qualifying": "2024-03-23T05:00:00Z",
         "gp": "2024-03-24T04:00:00Z",
-        "Other1": "Viernes 14 de marzo 12:30",
-        "Other2": "Viernes 14 de marzo 16:00",
-        "Other3": "Sábado 15 de marzo 13:00",
-        "Other4": "Sábado 15 de marzo 16:00",
-        "OtherGP": "Domingo 16 de marzo 15:00"
+        "Other1" = "Viernes 22 de marzo 12:30",
+        "Other2" = "Viernes 22 de marzo 16:00",
+        "Other3" = "Sábado 23 de marzo 13:00",
+        "Other4" = "Sábado 23 de marzo 16:00",
+        "OtherGP" = "Domingo 24 de marzo 15:00"
       }
     },
     {
-      "name": "GP Japón",
+      "name": "GP Japon",
       "location": "Suzuka",
       "latitude": "35.3689",
       "longitude": "138.9256",
-      "round": "4",
+      "round": "18",
       "slug": "japanese-grand-prix",
       "sessions": {
         "fp1": "2024-04-05T02:30:00Z",
@@ -89,11 +89,11 @@
         "fp3": "2024-04-06T02:30:00Z",
         "qualifying": "2024-04-06T06:00:00Z",
         "gp": "2024-04-07T05:00:00Z",
-        "Other1": "Viernes 4 de abril 11:30",
-        "Other2": "Viernes 4 de abril 15:00",
-        "Other3": "Sábado 5 de abril 12:00",
-        "Other4": "Sábado 5 de abril 15:00",
-        "OtherGP": "Domingo 6 de abril 14:00"
+        "Other1" = "Viernes 5 de abril 11:30",
+        "Other2" = "Viernes 5 de abril 15:00",
+        "Other3" = "Sábado 6 de abril 12:00",
+        "Other4" = "Sábado 6 de abril 15:00",
+        "OtherGP" = "Domingo 7 de abril 14:00"
       }
     },
     {
@@ -101,7 +101,7 @@
       "location": "Shanghai",
       "latitude": "31.3807",
       "longitude": "121.2498",
-      "round": "5",
+      "round": "3",
       "slug": "chinese-grand-prix",
       "sessions": {
         "fp1": "2024-04-19T03:30:00Z",
@@ -109,11 +109,11 @@
         "sprint": "2024-04-20T03:00:00Z",
         "qualifying": "2024-04-20T07:00:00Z",
         "gp": "2024-04-21T07:00:00Z",
-        "Other1": "Viernes 21 de marzo 11:00",
-        "Other2": "Viernes 21 de marzo 15:00",
-        "Other3": "Sábado 22 de marzo 12:00",
-        "Other4": "Sábado 22 de marzo 16:30",
-        "OtherGP": "Domingo 22 de marzo 14:00"
+        "Other1" = "Viernes 19 de abril 11:00",
+        "Other5" = "Viernes 19 de abril 15:00",
+        "Other6" = "Sábado 20 de abril 12:00",
+        "Other4" = "Sábado 20 de abril 16:30",
+        "OtherGP" = "Domingo 21 de abril 14:00"
       }
     },
     {
@@ -129,19 +129,19 @@
         "sprint": "2024-05-04T16:00:00Z",
         "qualifying": "2024-05-04T20:00:00Z",
         "gp": "2024-05-05T20:00:00Z",
-        "Other1": "Viernes 2 de mayo 13:30",
-        "Other2": "Viernes 2 de mayo 17:00",
-        "Other3": "Sábado 3 de mayo 12:30",
-        "Other4": "Sábado 3 de mayo 16:00",
-        "OtherGP": "Domingo 4 de mayo 15:30"
+        "Other1" = "Viernes 3 de mayo 13:30",
+        "Other5" = "Viernes 3 de mayo 17:00",
+        "Other6" = "Sábado 4 de mayo 12:30",
+        "Other4" = "Sábado 4 de mayo 16:00",
+        "OtherGP" = "Domingo 5 de mayo 15:30"
       }
-      },
+    },
     {
       "name": "GP Imola",
       "location": "Imola",
       "latitude": "44.344576",
       "longitude": "11.713808",
-      "round": "7",
+      "round": "4",
       "slug": "emilia-romagna-grand-prix",
       "sessions": {
         "fp1": "2024-05-17T11:30:00Z",
@@ -149,11 +149,11 @@
         "fp3": "2024-05-18T10:30:00Z",
         "qualifying": "2024-05-18T14:00:00Z",
         "gp": "2024-05-19T13:00:00Z",
-        "Other1": "Viernes 16 de mayo 13:30",
-        "Other2": "Viernes 16 de mayo 17:00",
-        "Other3": "Sábado 17 de mayo 12:30",
-        "Other4": "Sábado 17 de mayo 16:00",
-        "OtherGP": "Domingo 18 de mayo 15:00"
+        "Other1" = "Viernes 17 de mayo 13:30",
+        "Other2" = "Viernes 17 de mayo 17:00",
+        "Other3" = "Sábado 18 de mayo 12:30",
+        "Other4" = "Sábado 18 de mayo 16:00",
+        "OtherGP" = "Domingo 19 de mayo 15:00"
       }
     },
     {
@@ -169,11 +169,11 @@
         "fp3": "2024-05-25T10:30:00Z",
         "qualifying": "2024-05-25T14:00:00Z",
         "gp": "2024-05-26T13:00:00Z",
-        "Other1": "Viernes 23 de mayo 12:30",
-        "Other2": "Viernes 23 de mayo 16:00",
-        "Other3": "Sábado 24 de mayo 12:30",
-        "Other4": "Sábado 24 de mayo 16:00",
-        "OtherGP": "Domingo 25 de mayo 15:00"
+        "Other1" = "Viernes 24 de mayo 12:30",
+        "Other2" = "Viernes 24 de mayo 16:00",
+        "Other3" = "Sábado 25 de mayo 12:30",
+        "Other4" = "Sábado 25 de mayo 16:00",
+        "OtherGP" = "Domingo 26 de mayo 15:00"
       }
     },
     {
@@ -181,7 +181,7 @@
       "location": "Montreal",
       "latitude": "45.5034",
       "longitude": "-73.5267",
-      "round": "9",
+      "round": "10",
       "slug": "canadian-grand-prix",
       "sessions": {
         "fp1": "2024-06-07T17:30:00Z",
@@ -189,11 +189,11 @@
         "fp3": "2024-06-08T16:30:00Z",
         "qualifying": "2024-06-08T20:00:00Z",
         "gp": "2024-06-09T18:00:00Z",
-        "Other1": "Viernes 13 de junio 12:30",
-        "Other2": "Viernes 13 de junio 16:00",
-        "Other3": "Sábado 14 de junio 12:30",
-        "Other4": "Sábado 14 de junio 16:00",
-        "OtherGP": "Domingo 15 de junio 15:00"
+        "Other1" = "Viernes 7 de junio 12:30",
+        "Other2" = "Viernes 7 de junio 16:00",
+        "Other3" = "Sábado 8 de junio 12:30",
+        "Other4" = "Sábado 8 de junio 16:00",
+        "OtherGP" = "Domingo 9 de junio 15:00"
       }
     },
     {
@@ -201,7 +201,7 @@
       "location": "Catalunya",
       "latitude": "41.5638",
       "longitude": "2.2585",
-      "round": "10",
+      "round": "9",
       "slug": "spanish-grand-prix",
       "sessions": {
         "fp1": "2024-06-21T11:30:00Z",
@@ -209,11 +209,11 @@
         "fp3": "2024-06-22T10:30:00Z",
         "qualifying": "2024-06-22T14:00:00Z",
         "gp": "2024-06-23T13:00:00Z",
-        "Other1": "Viernes 30 de mayo 12:30",
-        "Other2": "Viernes 30 de mayo 16:00",
-        "Other3": "Sábado 31 de mayo 12:30",
-        "Other4": "Sábado 31 de mayo 16:00",
-        "OtherGP": "Domingo 1 de junio 15:00"
+        "Other1" = "Viernes 21 de junio 12:30",
+        "Other2" = "Viernes 21 de junio 16:00",
+        "Other3" = "Sábado 22 de junio 12:30",
+        "Other4" = "Sábado 22 de junio 16:00",
+        "OtherGP" = "Domingo 23 de junio 15:00"
       }
     },
     {
@@ -229,11 +229,11 @@
         "sprint": "2024-06-29T10:00:00Z",
         "qualifying": "2024-06-29T14:00:00Z",
         "gp": "2024-06-30T13:00:00Z",
-        "Other1": "Viernes 27 de junio 11:30",
-        "Other5": "Viernes 27 de junio 15:00",
-        "Other6": "Sábado 28 de junio 12:00",
-        "Other4": "Sábado 28 de junio 16:00",
-        "OtherGP": "Domingo 29 de junio 15:00"
+        "Other1" = "Viernes 28 de junio 11:30",
+        "Other5" = "Viernes 28 de junio 15:00",
+        "Other6" = "Sábado 29 de junio 12:00",
+        "Other4" = "Sábado 29 de junio 16:00",
+        "OtherGP" = "Domingo 30 de junio 15:00"
       }
     },
     {
@@ -249,11 +249,11 @@
         "fp3": "2024-07-06T10:30:00Z",
         "qualifying": "2024-07-06T14:00:00Z",
         "gp": "2024-07-07T14:00:00Z",
-        "Other1": "Viernes 4 de julio 12:30",
-        "Other2": "Viernes 4 de julio 16:00",
-        "Other3": "Sábado 5 de julio 12:30",
-        "Other4": "Sábado 5 de julio 16:00",
-        "OtherGP": "Domingo 6 de julio 15:00",
+        "Other1" = "Viernes 5 de julio 12:30",
+        "Other2" = "Viernes 5 de julio 16:00",
+        "Other3" = "Sábado 6 de julio 12:30",
+        "Other4" = "Sábado 6 de julio 16:00",
+        "OtherGP" = "Domingo 7 de julio 15:00",
       }
     },
     {
@@ -269,11 +269,11 @@
         "fp3": "2024-07-20T10:30:00Z",
         "qualifying": "2024-07-20T14:00:00Z",
         "gp": "2024-07-21T13:00:00Z",
-        "Other1": "Viernes 1 de agosto 12:30",
-        "Other2": "Viernes 1 de agosto 16:00",
-        "Other3": "Sábado 2 de agosto 12:30",
-        "Other4": "Sábado 2 de agosto 16:00",
-        "OtherGP": "Domingo 3 de agosto 15:00"
+        "Other1" = "Viernes 19 de julio 12:30",
+        "Other2" = "Viernes 19 de julio 16:00",
+        "Other3" = "Sábado 20 de julio 12:30",
+        "Other4" = "Sábado 20 de julio 16:00",
+        "OtherGP" = "Domingo 21 de julio 15:00"
       }
     },
     {
@@ -289,11 +289,11 @@
         "fp3": "2024-07-27T10:30:00Z",
         "qualifying": "2024-07-27T14:00:00Z",
         "gp": "2024-07-28T13:00:00Z",
-        "Other1": "Viernes 25 de julio 12:30",
-        "Other2": "Viernes 25 de julio 16:00",
-        "Other3": "Sábado 26 de julio 12:00",
-        "Other4": "Sábado 26 de julio 16:00",
-        "OtherGP": "Domingo 27 de julio 15:00"
+        "Other1" = "Viernes 26 de julio 12:30",
+        "Other2" = "Viernes 26 de julio 16:00",
+        "Other3" = "Sábado 27 de julio 12:00",
+        "Other4" = "Sábado 27 de julio 16:00",
+        "OtherGP" = "Domingo 28 de julio 15:00"
       }
     },
     {
@@ -309,11 +309,11 @@
         "fp3": "2024-08-24T09:30:00Z",
         "qualifying": "2024-08-24T13:00:00Z",
         "gp": "2024-08-25T13:00:00Z",
-        "Other1": "Viernes 29 de agosto 12:30",
-        "Other2": "Viernes 29 de agosto 16:00",
-        "Other3": "Sábado 30 de agosto 12:30",
-        "Other4": "Sábado 30 de agosto 16:00",
-        "OtherGP": "Domingo 31 de agosto 15:00"
+        "Other1" = "Viernes 23 de agosto 12:30",
+        "Other2" = "Viernes 23 de agosto 16:00",
+        "Other3" = "Sábado 24 de agosto 12:30",
+        "Other4" = "Sábado 24 de agosto 16:00",
+        "OtherGP" = "Domingo 25 de agosto 15:00"
       }
     },
     {
@@ -329,11 +329,11 @@
         "fp3": "2024-08-31T10:30:00Z",
         "qualifying": "2024-08-31T14:00:00Z",
         "gp": "2024-09-01T13:00:00Z",
-        "Other1": "Viernes 5 de septiembre 13:0",
-        "Other2": "Viernes 5 de septiembre 15:00",
-        "Other3": "Sábado 6 de septiembre 12:30",
-        "Other4": "Sábado 6 de septiembre 16:00",
-        "OtherGP": "Domingo 7 de septiembre 15:00"
+        "Other1" = "Viernes 30 de agosto 13:0",
+        "Other2" = "Viernes 30 de agosto 15:00",
+        "Other3" = "Sábado 31 de agosto 12:30",
+        "Other4" = "Sábado 31 de agosto 16:00",
+        "OtherGP" = "Domingo 1 de septiembre 15:00"
       }
     },
     {
@@ -341,7 +341,7 @@
       "location": "Baku",
       "latitude": "40.3699",
       "longitude": "49.8433",
-      "round": "17",
+      "round": "5",
       "slug": "azerbaijan-grand-prix",
       "sessions": {
         "fp1": "2024-09-13T09:30:00Z",
@@ -349,11 +349,11 @@
         "fp3": "2024-09-14T08:30:00Z",
         "qualifying": "2024-09-14T12:00:00Z",
         "gp": "2024-09-15T11:00:00Z",
-        "Other1": "Viernes 19 de septiembre 111:30",
-        "Other2": "Viernes 19 de septiembre 15:00",
-        "Other3": "Sábado 20 de septiembre 10:30",
-        "Other4": "Sábado 20 de septiembre 14:30",
-        "OtherGP": "Domingo 21 de septiembre 13:00"
+        "Other1" = "Viernes 13 de septiembre 111:30",
+        "Other2" = "Viernes 13 de septiembre 15:00",
+        "Other3" = "Sábado 14 de septiembre 10:30",
+        "Other4" = "Sábado 14 de septiembre 14:30",
+        "OtherGP" = "Domingo 15 de septiembre 13:00"
       }
     },
     {
@@ -361,7 +361,7 @@
       "location": "Singapore",
       "latitude": "1.2857",
       "longitude": "103.8575",
-      "round": "18",
+      "round": "17",
       "slug": "singapore-grand-prix",
       "sessions": {
         "fp1": "2024-09-20T09:30:00Z",
@@ -369,11 +369,11 @@
         "fp3": "2024-09-21T09:30:00Z",
         "qualifying": "2024-09-21T13:00:00Z",
         "gp": "2024-09-22T12:00:00Z",
-        "Other1": "Viernes 3 de octubre 11:30",
-        "Other2": "Viernes 3 de octubre 15:00",
-        "Other3": "Sábado 4 de octubre 11:30",
-        "Other4": "Sábado 4 de octubre 15:00",
-        "OtherGP": "Domingo 5 de octubre 14:00"
+        "Other1" = "Viernes 20 de septiembre 11:30",
+        "Other2" = "Viernes 20 de septiembre 15:00",
+        "Other3" = "Sábado 21 de septiembre 11:30",
+        "Other4" = "Sábado 21 de septiembre 15:00",
+        "OtherGP" = "Domingo 22 de septiembre 14:00"
         
       }
     },
@@ -382,7 +382,7 @@
       "location": "Austin",
       "latitude": "30.1328",
       "longitude": "-97.6411",
-      "round": "19",
+      "round": "20",
       "slug": "us-grand-prix",
       "sessions": {
         "fp1": "2024-10-18T17:30:00Z",
@@ -390,11 +390,11 @@
         "sprint": "2024-10-19T18:00:00Z",
         "qualifying": "2024-10-19T22:00:00Z",
         "gp": "2024-10-20T19:00:00Z",
-        "Other1": "Viernes 17 de octubre 19:30",
-        "Other5": "Viernes 17 de octubre 22:00",
-        "Other6": "Sábado 18 de octubre 23:00",
-        "Other4": "Sábado 18 de octubre 00:00",
-        "OtherGP": "Domingo 19 de octubre 21:00"
+        "Other1" = "Viernes 20 de octubre 19:30",
+        "Other5" = "Viernes 20 de octubre 22:00",
+        "Other6" = "Sábado 21 de octubre 23:00",
+        "Other4" = "Sábado 21 de octubre 00:00",
+        "OtherGP" = "Domingo 22 de octubre 21:00"
       }
     },
     {
@@ -402,7 +402,7 @@
       "location": "Mexico City",
       "latitude": "19.4028",
       "longitude": "-99.0986",
-      "round": "20",
+      "round": "21",
       "slug": "mexican-grand-prix",
       "sessions": {
         "fp1": "2024-10-25T18:30:00Z",
@@ -410,11 +410,11 @@
         "fp3": "2024-10-26T17:30:00Z",
         "qualifying": "2024-10-26T21:00:00Z",
         "gp": "2024-10-27T20:00:00Z",
-        "Other1": "Viernes 26 de octubre 20:30",
-        "Other2": "Viernes 26 de octubre 00:00",
-        "Other3": "Sabado 27 de octubre 19:30",
-        "Other4": "Sábado 27 de octubre 23:00",
-        "OtherGP": "Domingo 28 de octubre 21:00"
+        "Other1" = "Viernes 25 de octubre 20:30",
+        "Other2" = "Viernes 25 de octubre 00:00",
+        "Other3" = "Sabado 26 de octubre 19:30",
+        "Other4" = "Sábado 26 de octubre 23:00",
+        "OtherGP" = "Domingo 27 de octubre 21:00"
       }
     },
     {
@@ -422,7 +422,7 @@
       "location": "Sao Paulo",
       "latitude": "-23.7014",
       "longitude": "-46.6969",
-      "round": "21",
+      "round": "22",
       "slug": "brazilian-grand-prix",
       "sessions": {
         "fp1": "2024-11-01T14:30:00Z",
@@ -430,11 +430,11 @@
         "sprint": "2024-11-02T14:00:00Z",
         "qualifying": "2024-11-02T18:00:00Z",
         "gp": "2024-11-03T17:00:00Z",
-        "Other1": "Viernes 7 de noviembre 15:30",
-        "Other5": "Viernes 7 de noviembre 15:00",
-        "Other6": "Sábado 8 de noviembre 19:30",
-        "Other4": "Sábado 8 de noviembre 19:00",
-        "OtherGP": "Domingo 9 de noviembre 18:00"
+        "Other1" = "Viernes 3 de noviembre 15:30",
+        "Other5" = "Viernes 3 de noviembre 15:00",
+        "Other6" = "Sábado 4 de noviembre 19:30",
+        "Other4" = "Sábado 4 de noviembre 19:00",
+        "OtherGP" = "Domingo 5 de octubre 18:00"
       }
     },
     {
@@ -442,7 +442,7 @@
       "location": "Las Vegas",
       "latitude": "36.166747",
       "longitude": "-115.148708",
-      "round": "22",
+      "round": "23",
       "slug": "las-vegas-grand-prix",
       "sessions": {
         "fp1": "2024-11-22T02:30:00Z",
@@ -450,11 +450,11 @@
         "fp3": "2024-11-23T02:30:00Z",
         "qualifying": "2024-11-23T06:00:00Z",
         "gp": "2024-11-24T06:00:00Z",
-        "Other1": "Viernes 20 de noviembre 05:30",
-        "Other2": "Viernes 20 de noviembre 11:00",
-        "Other3": "Sabado 21 de noviembre 05:30",
-        "Other4": "Sábado 21 de noviembre 09:00",
-        "OtherGP": "Domingo 22 de noviembre 07:00"
+        "Other1" = "Viernes 17 de noviembre 05:30",
+        "Other2" = "Viernes 17 de noviembre 11:00",
+        "Other3" = "Sabado 18 de noviembre 05:30",
+        "Other4" = "Sábado 18 de noviembre 09:00",
+        "OtherGP" = "Domingo 19 de noviembre 07:00"
       }
     },
     {
@@ -462,7 +462,7 @@
       "location": "Doha",
       "latitude": "25.490292",
       "longitude": "51.45303",
-      "round": "23",
+      "round": "19",
       "slug": "qatar-grand-prix",
       "sessions": {
         "fp1": "2024-11-29T13:30:00Z",
@@ -470,11 +470,11 @@
         "sprint": "2024-11-30T13:00:00Z",
         "qualifying": "2024-11-30T17:00:00Z",
         "gp": "2024-12-01T16:00:00Z",
-        "Other1": "Viernes 28 de noviembre 13:00",
-        "Other5": "Viernes 28 de noviembre 17:00",
-        "Other6": "Sábado 29 de noviembre 15:00",
-        "Other3": "Sábado 29 de noviembre 18:00",
-        "OtherGP": "Domingo 30 de noviembre 18:00",
+        "Other1" = "Viernes 29 de noviembre 13:00",
+        "Other5" = "Viernes 29 de noviembre 17:00",
+        "Other6" = "Sábado 30 de noviembre 15:00",
+        "Other3" = "Sábado 30 de noviembre 18:00",
+        "OtherGP" = "Domingo 1 de diciembre 18:00",
       }
     },
     {
@@ -490,14 +490,12 @@
         "fp3": "2024-12-07T10:30:00Z",
         "qualifying": "2024-12-07T14:00:00Z",
         "gp": "2024-12-08T13:00:00Z",
-       "Other1": "Viernes 5 de diciembre 12:00",
-        "Other2": "Viernes 5 de diciembre 16:00",
-        "Other3": "Sabado 6 de diciembre 12:00",
-        "Other4": "Sábado 6 de diciembre 14:00",
-        "OtherGP": "Domingo 7 de diciembre 14:00"
+       "Other1" = "Viernes 6 de diciembre 12:00",
+        "Other2" = "Viernes 6 de diciembre 16:00",
+        "Other3" = "Sabado 6 de diciembre 12:00",
+        "Other4" = "Sábado 6 de diciembre 14:00",
+        "OtherGP" = "Domingo 8 de diciembre 14:00"
       }
     }
   ]
 }
-
-    
