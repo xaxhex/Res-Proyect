@@ -220,6 +220,16 @@
       "podiums": "0"  
     },
     {
+      "drive": "24",
+      "name": "Jack Doohan",
+      "number": "7",
+      "idname": "DOO",
+      "points": "0",
+      "position": "20",
+      "wins": "0",
+      "podiums": "0" 
+     },
+    {
       "drive": "25",
       "name": "Kimi Andrea Antonelli",
       "number": "12",
@@ -238,16 +248,6 @@
       "position": "20",
       "wins": "0",
       "podiums": "0" 
-    },
-    {
-      "drive": "27",
-      "name": "Jack Doohan",
-      "number": "7",
-      "idname": "DOO",
-      "points": "0",
-      "position": "20",
-      "wins": "0",
-      "podiums": "0" 
-     }
+    }
   ]
 }
