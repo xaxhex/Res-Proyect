@@ -1,13 +1,13 @@
 {
 "pilotos": [
     {
-      "drive": "1",
+      "drive": "0",
       "name": "Res-Proyect",
       "lname": "Res",
       "lname1": "Proyect",
       "idname": "zen",
       "points": "33",
-      "position": "1",
+      "position": "0",
       "image": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/alo.png"
     },
     {
