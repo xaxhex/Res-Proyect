@@ -392,5 +392,47 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/sar.png",
       "Nmbimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/LOGSAR01.png"
     },
+    {
+      "drive": "28",
+      "name": "Esteban ocon",
+      "idname": "OCO",
+      "number": "31",
+      "lname": "Esteban",
+      "lname1": "Ocon",
+      "points": "23",
+      "position": "14",
+      "wins": "1",
+      "podiums": "4",
+      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/oco1.png",
+      "Nmbimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/ESTOCO011.png"
+    },
+{
+      "drive": "29",
+      "name": "Lewis hamilton",
+      "idname": "HAM",
+      "number": "44",
+      "lname": "Lewis",
+      "lname1": "Hamilton",
+      "points": "223",
+      "position": "7",
+      "wins": "105",
+      "podiums": "202",
+      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ham1.png",
+      "Nmbimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/LEWHAM011.png"
+    },
+{
+      "drive": "30",
+      "name": "Niko hulkenberg ",
+      "idname": "HUL",
+      "number": "27",
+      "lname": "Valteri",
+      "lname1": "Bottas",
+      "points": "41",
+      "position": "11",
+      "wins": "0",
+      "podiums": "0",
+      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/hul1.png",
+      "Nmbimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/NICHUL011.png"
+    },
   ]
 }
