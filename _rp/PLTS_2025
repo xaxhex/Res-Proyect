@@ -12,7 +12,7 @@
       "wins": null,
       "podiums": null,
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ver.png",
-      "numimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/RESPRO01.png"
+      "numimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/CHALEC01.png"
     },
     {
       "drive": "1",
@@ -25,8 +25,7 @@
       "position": "1",
       "wins": "63",
       "podiums": "112",
-      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/max.png",
-      "Nmbimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/MAXVER01.png"
+      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/max.png"
     },
     {
       "drive": "2",
@@ -39,8 +38,7 @@
       "position": "21",
       "wins": "0",
       "podiums": "0",
-      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/per.png",
-      "Nmbimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/LIALAW01.png"
+      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/per.png"
     },
     {
       "drive": "3",
