@@ -13,7 +13,6 @@
       "podiums": null,
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ver.png",
       "numimage": "https://github.com/xaxhex/Res-Proyect/blob/main/_rp/Drvr/Nme/CHALEC01.png"
-
     },
     {
       "drive": "1",
@@ -278,7 +277,7 @@
       "podiums": "0",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ver.png"
     },
- {
+    {
       "drive": "21",
       "name": "Checo perez",
       "idname": "PER",
@@ -317,7 +316,7 @@
       "podiums": null,
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bot.png"
     },
-{
+    {
       "drive": "24",
       "name": "Daniel ricciardo",
       "idname": "RIC",
@@ -330,7 +329,7 @@
       "podiums": "1",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bot.png"
     },
-{
+    {
       "drive": "25",
       "name": "Guanyu Zhou",
       "idname": "ZHO",
@@ -343,7 +342,7 @@
       "podiums": "0",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bot.png"
     },
-{
+    {
       "drive": "26",
       "name": "Franco colapinto",
       "idname": "COL",
@@ -356,7 +355,7 @@
       "podiums": "1",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bot.png"
     },
-{
+    {
       "drive": "27",
       "name": "Logan sargeant",
       "idname": "SAR",
@@ -367,7 +366,7 @@
       "position": "17",
       "wins": "1",
       "podiums": "1",
-      "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bot.png"
+      "image": null
     },
   ]
 }
