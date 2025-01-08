@@ -6,6 +6,7 @@
       "latitude": "26.037",
       "longitude": "50.5112",
       "round": "1",
+      "circuit" "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/12024.png",
       "slug": "bahrain-grand-prix",
       "localeKey": "bahrain-grand-prix",
       "sessions": {
