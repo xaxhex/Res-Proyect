@@ -7,7 +7,8 @@
       "points": "333",
       "position": "1",
       "wins": "33",
-      "year": "2026"
+      "year": "2026",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp"
     },
     {
       "name": "Oracle Red Bull",
@@ -16,7 +17,8 @@
       "points": "512",
       "position": "3",
       "wins": "7",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp"
     },
     {
       "name": "Mercedes-AMG",
@@ -25,7 +27,8 @@
       "points": "566",
       "position": "4",
       "wins": "3",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr.webp"
     },
     {
       "name": "Scuderia Ferrari",
@@ -34,7 +37,8 @@
       "points": "537",
       "position": "2",
       "wins": "3",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr.webp"
     },
     {
       "name": "Aston Martin",
@@ -43,7 +47,8 @@
       "points": "86",
       "position": "5",
       "wins": "0",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/am.webp"
     },
     {
       "name": "McLaren",
@@ -52,7 +57,8 @@
       "points": "566",
       "position": "1",
       "wins": "5",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mc.webp"
     },
     {
       "name": "BWT Alpine F1",
@@ -61,7 +67,8 @@
       "points": "13",
       "position": "8",
       "wins": "0",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp"
     },
     {
       "name": "Visa Cash RB",
@@ -70,7 +77,8 @@
       "points": "34",
       "position": "6",
       "wins": "0",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp"
     },
     {
       "name": "Stake Kick Sauber",
@@ -79,7 +87,8 @@
       "points": "0",
       "position": "10",
       "wins": "0",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp"
     },
     {
       "name": "MoneyGram Haas",
@@ -88,7 +97,8 @@
       "points": "38",
       "position": "6",
       "wins": "0",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp"
     },
     {
       "name": "Williams Racing",
@@ -97,7 +107,8 @@
       "points": "17",
       "position": "8",
       "wins": "0",
-      "year": "2024"
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl.webp"
     }
   ]
 }
