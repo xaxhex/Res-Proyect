@@ -1,0 +1,104 @@
+{
+  "presentacion-2025": [
+    {
+      "name": "Res-Proyect",
+      "constructor": "Aston Martin",
+      "engine": "Honda ASM",
+      "points": "333",
+      "date": "",
+      "position": "1",
+      "wins": "33",
+      "year": "2026",
+      "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
+      "drivers": [
+        {
+          "name": "Driver 1",
+          "country": "Country A",
+          "number": "11",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp"
+        },
+        {
+          "name": "Driver 2",
+          "country": "Country B",
+          "number": "22",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
+        }
+      ]
+    },
+    {
+      "name": "Oracle Red Bull",
+      "constructor": "Oracle Red Bull Racing",
+      "engine": "Honda-RBPT",
+      "points": "512",
+      "position": "3",
+      "wins": "7",
+      "year": "2024",
+      "date": "",
+      "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
+      "drivers": [
+        {
+          "name": "Max Verstappen",
+          "country": "Netherlands",
+          "number": "1",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp"
+        },
+        {
+          "name": "Sergio Pérez",
+          "country": "Mexico",
+          "number": "11",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
+        }
+      ]
+    },
+    {
+      "name": "Mercedes-AMG",
+      "constructor": "Mercedes-AMG Petronas F1",
+      "engine": "Mercedes",
+      "points": "566",
+      "position": "4",
+      "wins": "3",
+      "year": "2024",
+      "date": "",
+      "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr.webp",
+      "drivers": [
+        {
+          "name": "Lewis Hamilton",
+          "country": "United Kingdom",
+          "number": "44",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/mr.webp"
+        },
+        {
+          "name": "George Russell",
+          "country": "United Kingdom",
+          "number": "63",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/mr.webp"
+        }
+      ]
+    },
+    {
+      "name": "Scuderia Ferrari",
+      "constructor": "Scuderia Ferrari",
+      "engine": "Ferrari",
+      "points": "537",
+      "position": "2",
+      "wins": "3",
+      "year": "2024",
+      "date": "",
+      "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr.webp",
+      "drivers": [
+        {
+          "name": "Charles Leclerc",
+          "country": "Monaco",
+          "number": "16",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp"
+        },
+        {
+          "name": "Carlos Sainz",
+          "country": "Spain",
+          "number": "55",
+          "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+        }
+      ]
+    },
+  ]
+}
