@@ -1,7 +1,8 @@
 [
   {
     "id": "sakhir",
-    "name": "Sakhir",
+    "name": "Bahrain",
+    "location": "Sakhir",
     "round": "TESTING",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Day 3": { "start_day": "28Feb", "start_time": "TBC" },
@@ -10,18 +11,20 @@
   },
   {
     "id": "australia",
-    "name": "Australia",
+    "name": "Australian",
+    "location": "Melbourne",
     "round": "1",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
-    "Race": { "start_day": "16Mar", "start_time": "TBC" },
-    "Qualifying": { "start_day": "15Mar", "start_time": "TBC" },
-    "Practice 3": { "start_day": "15Mar", "start_time": "TBC" },
-    "Practice 2": { "start_day": "14Mar", "start_time": "TBC" },
-    "Practice 1": { "start_day": "13Mar", "start_time": "TBC" }
+    "Race": { "start_day": "16Mar", "start_time": "15:00" },
+    "Qualifying": { "start_day": "15Mar", "start_time": "16:00" },
+    "Practice 3": { "start_day": "15Mar", "start_time": "12:30" },
+    "Practice 2": { "start_day": "14Mar", "start_time": "16:00" },
+    "Practice 1": { "start_day": "14Mar", "start_time": "12:30" }
   },
   {
     "id": "china",
-    "name": "China",
+    "name": "Chinese",
+    "location": "Shanghai",
     "round": "2",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "23Mar", "start_time": "TBC" },
@@ -32,7 +35,8 @@
   },
   {
     "id": "japan",
-    "name": "Japan",
+    "name": "Japanese",
+    "location": "Suzuka",
     "round": "3",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "6Apr", "start_time": "TBC" },
@@ -44,6 +48,7 @@
   {
     "id": "bahrain",
     "name": "Bahrain",
+    "location": "Sakhir",
     "round": "4",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "13Apr", "start_time": "TBC" },
@@ -54,7 +59,8 @@
   },
   {
     "id": "saudi-arabia",
-    "name": "Saudi Arabia",
+    "name": "Saudi Arabian",
+    "location": "Jeddah",
     "round": "5",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "20Apr", "start_time": "TBC" },
@@ -66,6 +72,7 @@
   {
     "id": "miami",
     "name": "Miami",
+    "location": "Miami",
     "round": "6",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "4May", "start_time": "TBC" },
@@ -76,7 +83,8 @@
   },
   {
     "id": "emilia-romagna",
-    "name": "Emilia Romagna",
+    "name": "Emilia Romagna Grand Prix",
+    "location": "Imola",
     "round": "7",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "18May", "start_time": "TBC" },
@@ -88,6 +96,7 @@
   {
     "id": "monaco",
     "name": "Monaco",
+    "location": "Monte Carlo",
     "round": "8",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "25May", "start_time": "TBC" },
@@ -98,7 +107,8 @@
   },
   {
     "id": "spain",
-    "name": "Spain",
+    "name": "Spain ",
+    "location": "Catalunya",
     "round": "9",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "1Jun", "start_time": "TBC" },
@@ -110,6 +120,7 @@
   {
     "id": "canada",
     "name": "Canada",
+    "location": "Montreal",
     "round": "10",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "15Jun", "start_time": "TBC" },
@@ -121,6 +132,7 @@
   {
     "id": "austria",
     "name": "Austria",
+    "location": "Spielberg",
     "round": "11",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "29Jun", "start_time": "TBC" },
@@ -131,7 +143,8 @@
   },
   {
     "id": "great-britain",
-    "name": "Great Britain",
+    "name": "British",
+    "location": "Silverstone",
     "round": "12",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "6Jul", "start_time": "TBC" },
@@ -143,6 +156,7 @@
   {
     "id": "belgium",
     "name": "Belgium",
+    "location": "Spa-Francorchamps",
     "round": "13",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "27Jul", "start_time": "TBC" },
@@ -154,6 +168,7 @@
   {
     "id": "hungary",
     "name": "Hungary",
+    "location": "Budapest",
     "round": "14",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "3Aug", "start_time": "TBC" },
@@ -164,7 +179,8 @@
   },
   {
     "id": "netherlands",
-    "name": "Netherlands",
+    "name": "Dutch",
+    "location": "Zandvoort",
     "round": "15",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "31Aug", "start_time": "TBC" },
@@ -176,6 +192,7 @@
   {
     "id": "italy",
     "name": "Italy",
+    "location": "Monza",
     "round": "16",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "7Sep", "start_time": "TBC" },
@@ -187,6 +204,7 @@
   {
     "id": "azerbaijan",
     "name": "Azerbaijan",
+    "location": "Baku",
     "round": "17",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "21Sep", "start_time": "TBC" },
@@ -198,6 +216,7 @@
   {
     "id": "singapore",
     "name": "Singapore",
+    "location": "Singapore",
     "round": "18",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "5Oct", "start_time": "TBC" },
@@ -209,6 +228,7 @@
   {
     "id": "united-states",
     "name": "United States",
+    "location": "Austin",
     "round": "19",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "19Oct", "start_time": "TBC" },
@@ -220,6 +240,7 @@
   {
     "id": "mexico",
     "name": "Mexico",
+    "location": "Mexico City",
     "round": "20",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "26Oct", "start_time": "TBC" },
@@ -231,6 +252,7 @@
   {
     "id": "brazil",
     "name": "Brazil",
+    "location": "Sao Paulo",
     "round": "21",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "9Nov", "start_time": "TBC" },
@@ -242,6 +264,7 @@
   {
     "id": "las-vegas",
     "name": "Las Vegas",
+    "location": "Las Vegas",
     "round": "22",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "22Nov", "start_time": "TBC" },
@@ -253,6 +276,7 @@
   {
     "id": "qatar",
     "name": "Qatar",
+    "location": "Doha",
     "round": "23",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "30Nov", "start_time": "TBC" },
@@ -264,6 +288,7 @@
   {
     "id": "abu-dhabi",
     "name": "Abu Dhabi",
+    "location": "Yas Marina",
     "round": "24",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Race": { "start_day": "7Dec", "start_time": "TBC" },
