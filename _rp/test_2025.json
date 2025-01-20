@@ -1,4 +1,5 @@
-[
+{
+  "races": [
   {
     "id": "sakhir",
     "name": "Bahrain",
@@ -296,5 +297,6 @@
     "Practice 3": { "start_day": "6Dec", "start_time": "TBC" },
     "Practice 2": { "start_day": "5Dec", "start_time": "TBC" },
     "Practice 1": { "start_day": "5Dec", "start_time": "TBC" }
-  }
-]
+    }
+  ]
+}
