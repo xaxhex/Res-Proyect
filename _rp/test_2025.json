@@ -2,9 +2,9 @@
   "races": [
   {
     "id": "sakhir",
-    "name": "Bahrain",
+    "name": "Bahrain TEST",
     "location": "Sakhir",
-    "round": "TESTING",
+    "round": "0",
     "circuit": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/ct/1234.webp",
     "Day 3": { "start_day": "28Feb", "start_time": "TBC" },
     "Day 2": { "start_day": "27Feb", "start_time": "TBC" },
