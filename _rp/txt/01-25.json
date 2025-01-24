@@ -15,7 +15,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/alo.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/FERALO01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/as.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Spain.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Spain.webp",
+      "colortm" : "#229971"
     },
     {
       "drive": "1",
@@ -32,7 +33,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ver.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/MAXVER01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Netherlands.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Netherlands.webp",
+      "colortm" : "#3671c6"
     },
     {
       "drive": "2",
@@ -49,7 +51,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/law.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LIALAW01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Australia.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Australia.webp",
+      "colortm" : "#3671c6"
     },
     {
       "drive": "3",
@@ -66,7 +69,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/rus.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/GEORUS01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr1.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp",
+      "colortm" : "#26f5d2"
     },
     {
       "drive": "4",
@@ -83,7 +87,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ant.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/KIMANT01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr1.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Italy.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Italy.webp",
+      "colortm" : "#26f5d2"
     },
     {
       "drive": "5",
@@ -100,7 +105,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ham.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LEWHAM01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr1.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp",
+      "colortm" : "#e80220"
     },
     {
       "drive": "6",
@@ -117,7 +123,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/lec.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/CHALEC01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr1.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Monaco.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Monaco.webp",
+      "colortm" : "#e80220"
     },
     {
       "drive": "7",
@@ -134,7 +141,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/alo.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/FERALO01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/as.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Spain.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Spain.webp",
+      "colortm" : "#229971"
     },
     {
       "drive": "8",
@@ -151,7 +159,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/str.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LANSTR01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/as.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Canada.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Canada.webp",
+      "colortm" : "#229971"
     },
     {
       "drive": "9",
@@ -168,7 +177,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/nor.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LANNOR01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mcl.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp",
+      "colortm" : "#ff8001"
     },
     {
       "drive": "10",
@@ -185,7 +195,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/pia.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/OSCPIA01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mcl.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Australia.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Australia.webp",
+      "colortm" : "#ff8001"
     },
     {
       "drive": "11",
@@ -202,7 +213,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/gas.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/PIEGAS01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp",
+      "colortm" : "#0093cc"
     },
     {
       "drive": "12",
@@ -219,7 +231,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/doo.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/JACDOO01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Australia.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Australia.webp",
+      "colortm" : "#0093cc"
     },
     {
       "drive": "13",
@@ -236,7 +249,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/tsu.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/YUKTSU01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Japan.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Japan.webp",
+      "colortm" : "#6592ff"
     },
     {
       "drive": "14",
@@ -253,7 +267,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/had.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/ISAHAD01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp",
+      "colortm" : "#6592ff"
     },
     {
       "drive": "15",
@@ -270,7 +285,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/hul.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/NICHUL01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Germany.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Germany.webp",
+      "colortm" : "#52e252"
     },
     {
       "drive": "16",
@@ -287,7 +303,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bor.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/GABBOR01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Brazil.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Brazil.webp",
+      "colortm" : "#52e252"
     },
     {
       "drive": "17",
@@ -304,7 +321,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/sai.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/CARSAI01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Spain.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Spain.webp",
+      "colortm" : "#63c4ff"
     },
     {
       "drive": "18",
@@ -321,7 +339,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/alb.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/ALEALB01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Thailand.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Thailand.webp",
+      "colortm" : "#63c4ff"
     },
     {
       "drive": "19",
@@ -338,7 +357,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/oco.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/ESTOCO01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp",
+      "colortm" : "#b6babd"
     },
     {
       "drive": "20",
@@ -355,7 +375,8 @@
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bea.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/OLIBEA01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp",
-      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp"
+      "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/United%20Kingdom.webp",
+      "colortm" : "#b6babd"
     }
   ]
 }
