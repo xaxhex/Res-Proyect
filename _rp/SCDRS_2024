@@ -14,7 +14,8 @@
     },
     {
       "team" : "1",
-      "name": "Oracle Red Bull Racing",
+      "name": "Oracle Red Bull Racing",ç
+      "sname": "Oracle Red Bull Racing",
       "constructor": "Oracle Red Bull Racing",       
       "engine": "Honda-RBPT",
       "points": "589",
