@@ -12,7 +12,6 @@
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
       "colortm" : "#229971"
     },
-    },
     {
       "team" : "1",
       "name": "Oracle Red Bull",
@@ -39,7 +38,6 @@
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr.webp",
       "colortm" : "#26f5d2"
     },
-    },
     {
       "team" : "3",
       "name": "Scuderia Ferrari",
@@ -52,7 +50,6 @@
       "year": "2024",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr.webp",
       "colortm" : "#e80220"
-    },
     },
     {
       "team" : "4",
@@ -80,7 +77,6 @@
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mc.webp",
       "colortm" : "#ff8001"
     },
-    },
     {
       "team" : "6",
       "name": "BWT Alpine F1",
@@ -93,7 +89,6 @@
       "year": "2024",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp",
       "colortm" : "#0093cc"
-    },
     },
     {
       "team" : "7",
@@ -108,7 +103,6 @@
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp",
       "colortm" : "#6592ff"
     },
-    },
     {
       "team" : "8",
       "name": "Stake Kick Sauber",
@@ -121,7 +115,6 @@
       "year": "2024",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp",
       "colortm" : "#52e252"
-    },
     },
     {
       "team" : "9",
