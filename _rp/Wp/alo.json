@@ -2,36 +2,43 @@
   {
     "id": 1,
     "name": "Alonso Austria",
-    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20Austria.jpg"
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20Austria.jpg",
+    "lock": no
   },
   {
     "id": 2,
     "name": "Alonso British GP 2024 Helmet",
-    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20British%20GP%202024%20Helmet.png"
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20British%20GP%202024%20Helmet.png",
+    "lock": no
   },
   {
     "id": 3,
     "name": "Alonso British GP 2024",
-    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20British%20GP%202024.jpg"
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20British%20GP%202024.jpg",
+    "lock": no
   },
   {
     "id": 4,
     "name": "Alonso China GP 2024",
-    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20China%20GP%202024.jpg"
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20China%20GP%202024.jpg",
+    "lock": no
   },
   {
     "id": 5,
     "name": "Alonso Imola 2024",
-    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20Imola%202024.jpg"
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20Imola%202024.jpg",
+    "lock": no
   },
   {
     "id": 6,
     "name": "Alonso Miami GP 2024",
-    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20Miami%20GP%202024.jpg"
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20Miami%20GP%202024.jpg",
+    "lock": no
   },
   {
     "id": 7,
     "name": "Alonso Barhein",
-    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20barhein.jpg"
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/ALO/Alonso%20barhein.jpg",
+    "lock": yes
   }
 ]
