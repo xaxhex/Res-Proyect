@@ -9,7 +9,9 @@
       "position": "1",
       "wins": "33",
       "year": "2026",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
+      "colortm" : "#229971"
+    },
     },
     {
       "team" : "1",
@@ -21,7 +23,8 @@
       "wins-2024": "9",
       "total-wins": "122",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
+      "colortm" : "#3671c6"
     },
     {
       "team" : "2",
@@ -33,7 +36,9 @@
       "wins-2024": "3",
       "total-wins": "129",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr.webp",
+      "colortm" : "#26f5d2"
+    },
     },
     {
       "team" : "3",
@@ -45,7 +50,9 @@
       "wins-2024": "5",
       "total-wins": "248",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr.webp",
+      "colortm" : "#e80220"
+    },
     },
     {
       "team" : "4",
@@ -57,7 +64,8 @@
       "wins-2024": "0",
       "total-wins": "1",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/am.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/am.webp",
+      "colortm" : "#229971"
     },
     {
       "team" : "5",
@@ -69,7 +77,9 @@
       "wins-2024": "6",
       "total-wins": "189",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mc.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mc.webp",
+      "colortm" : "#ff8001"
+    },
     },
     {
       "team" : "6",
@@ -81,7 +91,9 @@
       "wins-2024": "0",
       "total-wins": "1",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp",
+      "colortm" : "#0093cc"
+    },
     },
     {
       "team" : "7",
@@ -93,7 +105,9 @@
       "wins-2024": "0",
       "total-wins": "0",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp",
+      "colortm" : "#6592ff"
+    },
     },
     {
       "team" : "8",
@@ -105,22 +119,12 @@
       "wins-2024": "0",
       "total-wins": "0",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp",
+      "colortm" : "#52e252"
+    },
     },
     {
       "team" : "9",
-      "name": "MoneyGram Haas",
-      "constructor": "MoneyGram Haas",
-      "engine": "Ferrari",
-      "points": "58",
-      "position": "7",
-      "wins-2024": "0",
-      "total-wins": "0",
-      "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp"
-    },
-    {
-      "team" : "10",
       "name": "Williams Racing",
       "constructor": "Williams Racing",
       "engine": "Mercedes",
@@ -129,7 +133,21 @@
       "wins-2024": "0",
       "total-wins": "114",
       "year": "2024",
-      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl.webp"
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl.webp",
+      "colortm" : "#63c4ff"
+    },
+    {
+      "team" : "10",
+      "name": "MoneyGram Haas",
+      "constructor": "MoneyGram Haas",
+      "engine": "Ferrari",
+      "points": "58",
+      "position": "7",
+      "wins-2024": "0",
+      "total-wins": "0",
+      "year": "2024",
+      "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp",
+      "colortm" : "#b6babd"
     }
   ]
 }
