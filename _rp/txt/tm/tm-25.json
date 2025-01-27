@@ -10,7 +10,7 @@
             "wins": "",
             "total-wins": "189",
             "year": "2025",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb2.webp",
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/RB.webp",
             "colortm" : "#3671c6"
         },
         {
@@ -24,7 +24,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#26f5d2",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/LogTm/mr1.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/LogTm/bn/MR.webp"
         },
         {
             "team" : "3",
@@ -36,7 +36,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#e80220",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr2.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/FR.webp"
         },
         {
             "team" : "4",
@@ -49,7 +49,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#01665E",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/as2.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/AS.webp"
         },
         {
             "team" : "5",
@@ -62,7 +62,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#ff8001",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mc2.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/MC.webp"
         },
         {
             "team" : "6",
@@ -75,7 +75,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#0093cc",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/AL.webp"
         },
         {
             "team" : "7",
@@ -88,7 +88,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#6592ff",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb1.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/VRB.webp"
         },
         {
             "team" : "8",
@@ -101,7 +101,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#52e252",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st1.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/ST.webp"
         },
         {
             "team" : "9",
@@ -114,7 +114,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#63c4ff",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl1.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/WL.webp"
         },
         {
             "team" : "10",
@@ -127,7 +127,7 @@
             "total-wins": "189",
             "year": "2025",
             "colortm" : "#b6babd",
-            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp"
+            "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/HS.webp"
         }
         ]
     }
