@@ -14,13 +14,13 @@
         {
           "name": "asd",
           "country": "Country A",
-          "number": "11",
+          "number1": "11",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp"
         },
         {
           "name": "adf 2",
           "country": "Country B",
-          "number": "22",
+          "number2": "22",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
         }
       ]
@@ -39,13 +39,13 @@
         {
           "name": "Max Verstappen",
           "country": "Netherlands",
-          "number": "1",
+          "number1": "1",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp"
         },
         {
           "name": "Sergio Pérez",
           "country": "Mexico",
-          "number": "11",
+          "number2": "11",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
         }
       ]
@@ -64,13 +64,13 @@
         {
           "name": "Lewis Hamilton",
           "country": "United Kingdom",
-          "number": "44",
+          "number1": "44",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/mr.webp"
         },
         {
           "name": "George Russell",
           "country": "United Kingdom",
-          "number": "63",
+          "number2": "63",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/mr.webp"
         }
       ]
@@ -89,13 +89,13 @@
         {
           "name": "Charles Leclerc",
           "country": "Monaco",
-          "number": "16",
+          "number1": "16",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp"
         },
         {
           "name": "Carlos Sainz",
           "country": "Spain",
-          "number": "55",
+          "number2": "55",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
         }
       ]
@@ -114,13 +114,13 @@
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number1": "",
           "image": ""
         },
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number2": "",
           "image": ""
         }
       ]
@@ -139,13 +139,13 @@
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number1": "",
           "image": ""
         },
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number2": "",
           "image": ""
         }
       ]
@@ -164,13 +164,13 @@
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number1": "",
           "image": ""
         },
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number2": "",
           "image": ""
         }
       ]
@@ -189,13 +189,13 @@
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number1": "",
           "image": ""
         },
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number2": "",
           "image": ""
         }
       ]
@@ -214,13 +214,13 @@
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number1": "",
           "image": ""
         },
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number2": "",
           "image": ""
         }
       ]
@@ -239,13 +239,13 @@
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number1": "",
           "image": ""
         },
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number2": "",
           "image": ""
         }
       ]
@@ -264,13 +264,13 @@
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number1": "",
           "image": ""
         },
         {
           "name": "",
           "country": "",
-          "number": "",
+          "number2": "",
           "image": ""
         }
       ]
