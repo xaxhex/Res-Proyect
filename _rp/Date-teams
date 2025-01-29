@@ -102,176 +102,176 @@
     },
     {
       "team" : "4",
-      "name": "null",
-      "constructor": "null",
-      "engine": "null",
-      "points": "null",
-      "position": "null",
-      "wins": "null",
-      "year": "2024",
-      "tmimage": null",
+      "name": "Aston Martin Aramco Formula One Team",
+      "constructor": "Aston Martin Aramco-Mercedes",
+      "engine": "Mercedes",
+      "points": "",
+      "position": "",
+      "wins": "",
+      "year": "2025",
+      "tmimage": "",
       "drivers": [
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         },
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         }
       ]
     }, 
     {
       "team" : "5",
-      "name": "null",
-      "constructor": "null",
-      "engine": "null",
-      "points": "null",
-      "position": "null",
-      "wins": "null",
-      "year": "2024",
-      "tmimage": null",
+      "name": "",
+      "constructor": "",
+      "engine": "",
+      "points": "",
+      "position": "",
+      "wins": "",
+      "year": "2025",
+      "tmimage": "",
       "drivers": [
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         },
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         }
       ]
     },  
     {
       "team" : "6",
-      "name": "null",
-      "constructor": "null",
-      "engine": "null",
-      "points": "null",
-      "position": "null",
-      "wins": "null",
-      "year": "2024",
-      "tmimage": null",
+      "name": "",
+      "constructor": "",
+      "engine": "",
+      "points": "",
+      "position": "",
+      "wins": "",
+      "year": "",
+      "tmimage": "",
       "drivers": [
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         },
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         }
       ]
     },   
     {
       "team" : "7",
-      "name": "null",
-      "constructor": "null",
-      "engine": "null",
-      "points": "null",
-      "position": "null",
-      "wins": "null",
+      "name": "",
+      "constructor": "",
+      "engine": "",
+      "points": "",
+      "position": "",
+      "wins": "",
       "year": "2024",
-      "tmimage": null",
+      "tmimage": "",
       "drivers": [
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         },
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         }
       ]
     },      
     {
       "team" : "8",
-      "name": "null",
-      "constructor": "null",
-      "engine": "null",
-      "points": "null",
-      "position": "null",
-      "wins": "null",
+      "name": "",
+      "constructor": "",
+      "engine": "",
+      "points": "",
+      "position": "",
+      "wins": "",
       "year": "2024",
-      "tmimage": null",
+      "tmimage": "",
       "drivers": [
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         },
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         }
       ]
     },    
     {
       "team" : "9",
-      "name": "null",
-      "constructor": "null",
-      "engine": "null",
-      "points": "null",
-      "position": "null",
-      "wins": "null",
+      "name": "",
+      "constructor": "",
+      "engine": "",
+      "points": "",
+      "position": "",
+      "wins": "",
       "year": "2024",
-      "tmimage": null",
+      "tmimage": "",
       "drivers": [
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         },
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         }
       ]
     }, 
     {
       "team" : "10",
-      "name": "null",
-      "constructor": "null",
-      "engine": "null",
-      "points": "null",
-      "position": "null",
-      "wins": "null",
-      "year": "2024",
-      "tmimage": null",
+      "name": "",
+      "constructor": "",
+      "engine": "",
+      "points": "",
+      "position": "",
+      "wins": "",
+      "year": "2025",
+      "tmimage": "",
       "drivers": [
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         },
         {
-          "name": "null",
-          "country": "null",
-          "number": "null",
-          "image": "null"
+          "name": "",
+          "country": "",
+          "number": "",
+          "image": ""
         }
       ]
     }
