@@ -12,13 +12,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
       "drivers": [
         {
-          "name": "Driver 1",
+          "name": "asd",
           "country": "Country A",
           "number": "11",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp"
         },
         {
-          "name": "Driver 2",
+          "name": "adf 2",
           "country": "Country B",
           "number": "22",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
