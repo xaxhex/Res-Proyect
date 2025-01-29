@@ -5,7 +5,6 @@
       "constructor": "Aston Martin",
       "engine": "Honda ASM",
       "points": "333",
-      "date": "",
       "position": "1",
       "wins": "33",
       "year": "2026",
@@ -33,7 +32,6 @@
       "position": "3",
       "wins": "7",
       "year": "2024",
-      "date": "",
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
       "drivers": [
         {
@@ -58,7 +56,6 @@
       "position": "4",
       "wins": "3",
       "year": "2024",
-      "date": "",
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr.webp",
       "drivers": [
         {
@@ -83,7 +80,6 @@
       "position": "2",
       "wins": "3",
       "year": "2024",
-      "date": "",
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr.webp",
       "drivers": [
         {
@@ -99,6 +95,6 @@
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
         }
       ]
-    },
+    }
   ]
 }
