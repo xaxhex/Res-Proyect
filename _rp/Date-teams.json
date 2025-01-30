@@ -12,13 +12,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
       "drivers": [
         {
-          "name": "asd",
+          "name1": "asd",
           "country": "Country A",
           "number1": "11",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp"
         },
         {
-          "name": "adf 2",
+          "name2": "adf 2",
           "country": "Country B",
           "number2": "22",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
@@ -37,13 +37,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp",
       "drivers": [
         {
-          "name": "Max Verstappen",
+          "name1": "Max Verstappen",
           "country": "Netherlands",
           "number1": "1",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp"
         },
         {
-          "name": "Sergio Pérez",
+          "name2": "Sergio Pérez",
           "country": "Mexico",
           "number2": "11",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
@@ -59,16 +59,16 @@
       "position": "4",
       "wins": "3",
       "year": "2024",
-      "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr1.webp",
+      "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr.webp",
       "drivers": [
         {
-          "name": "Lewis Hamilton",
+          "name1": "Lewis Hamilton",
           "country": "United Kingdom",
           "number1": "44",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/mr.webp"
         },
         {
-          "name": "George Russell",
+          "name2": "George Russell",
           "country": "United Kingdom",
           "number2": "63",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/mr.webp"
@@ -87,13 +87,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr.webp",
       "drivers": [
         {
-          "name": "Charles Leclerc",
+          "name1": "Charles Leclerc",
           "country": "Monaco",
           "number1": "16",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp"
         },
         {
-          "name": "Carlos Sainz",
+          "name2": "Carlos Sainz",
           "country": "Spain",
           "number2": "55",
           "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
@@ -112,13 +112,13 @@
       "tmimage": "",
       "drivers": [
         {
-          "name": "",
+          "name1": "",
           "country": "",
           "number1": "",
           "image": ""
         },
         {
-          "name": "",
+          "name2": "",
           "country": "",
           "number2": "",
           "image": ""
@@ -137,13 +137,13 @@
       "tmimage": "",
       "drivers": [
         {
-          "name": "",
+          "name1": "",
           "country": "",
           "number1": "",
           "image": ""
         },
         {
-          "name": "",
+          "name2": "",
           "country": "",
           "number2": "",
           "image": ""
@@ -162,13 +162,13 @@
       "tmimage": "",
       "drivers": [
         {
-          "name": "",
+          "name1": "",
           "country": "",
           "number1": "",
           "image": ""
         },
         {
-          "name": "",
+          "name2": "",
           "country": "",
           "number2": "",
           "image": ""
@@ -187,13 +187,13 @@
       "tmimage": "",
       "drivers": [
         {
-          "name": "",
+          "name1": "",
           "country": "",
           "number1": "",
           "image": ""
         },
         {
-          "name": "",
+          "name2": "",
           "country": "",
           "number2": "",
           "image": ""
@@ -212,13 +212,13 @@
       "tmimage": "",
       "drivers": [
         {
-          "name": "",
+          "name1": "",
           "country": "",
           "number1": "",
           "image": ""
         },
         {
-          "name": "",
+          "name2": "",
           "country": "",
           "number2": "",
           "image": ""
@@ -237,13 +237,13 @@
       "tmimage": "",
       "drivers": [
         {
-          "name": "",
+          "name1": "",
           "country": "",
           "number1": "",
           "image": ""
         },
         {
-          "name": "",
+          "name2": "",
           "country": "",
           "number2": "",
           "image": ""
@@ -262,13 +262,13 @@
       "tmimage": "",
       "drivers": [
         {
-          "name": "",
+          "name1": "",
           "country": "",
           "number1": "",
           "image": ""
         },
         {
-          "name": "",
+          "name2": "",
           "country": "",
           "number2": "",
           "image": ""
