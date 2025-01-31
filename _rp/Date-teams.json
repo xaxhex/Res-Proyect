@@ -3,6 +3,7 @@
     {
       "team": "1",
       "name": "Oracle Red Bull Racing",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Oracle Red Bull Racing",
       "engine": "Honda-RBPT",
       "points": "0",
@@ -25,6 +26,7 @@
     {
       "team": "2",
       "name": "Mercedes-AMG Petronas Formula One Team",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Mercedes-AMG Petronas F1",
       "engine": "Mercedes",
       "points": "0",
@@ -47,6 +49,7 @@
     {
       "team": "3",
       "name": "Scuderia Ferrari HP",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Ferrari",
       "engine": "Ferrari",
       "points": "0",
@@ -69,6 +72,7 @@
     {
       "team": "4",
       "name": "Aston Martin Aramco Formula One Team",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Aston Martin Aramco-Mercedes",
       "engine": "Mercedes",
       "points": "0",
@@ -91,6 +95,7 @@
     {
       "team": "5",
       "name": "Scuderia Ferrari HP",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Ferrari",
       "engine": "Ferrari",
       "points": "0",
@@ -113,6 +118,7 @@
     {
       "team": "6",
       "name": "Scuderia Ferrari HP",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Ferrari",
       "engine": "Ferrari",
       "points": "0",
@@ -135,6 +141,7 @@
     {
       "team": "7",
       "name": "Scuderia Ferrari HP",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Ferrari",
       "engine": "Ferrari",
       "points": "0",
@@ -157,6 +164,7 @@
     {
       "team": "8",
       "name": "Scuderia Ferrari HP",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Ferrari",
       "engine": "Ferrari",
       "points": "0",
@@ -179,6 +187,7 @@
     {
       "team": "9",
       "name": "Scuderia Ferrari HP",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Ferrari",
       "engine": "Ferrari",
       "points": "0",
@@ -201,6 +210,7 @@
     {
       "team": "10",
       "name": "Scuderia Ferrari HP",
+      "nam": "Oracle Red Bull Racing",
       "constructor": "Ferrari",
       "engine": "Ferrari",
       "points": "0",
