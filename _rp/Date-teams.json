@@ -17,11 +17,11 @@
       "name1": "MAX",
       "country1": "Netherlands",
       "number1": "1",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/rb.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ver.webp",
       "name2": "LAW",
       "country2": "Mexico",
       "number2": "30",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/rb.webp"
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/law.webp"
     },
     {
       "team": "2",
@@ -40,11 +40,11 @@
       "name1": "RUS",
       "country1": "United Kingdom",
       "number1": "44",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/mr.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/rus.webp",
       "name2": "ANT",
-      "country2": "United Kingdom",
-      "number2": "63",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/mr.webp"
+      "country2": "Italy",
+      "number2": "12",
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ant.webp"
     },
     {
       "team": "3",
@@ -63,11 +63,11 @@
       "name1": "LEC",
       "country1": "Monaco",
       "number1": "16",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/lec.webp",
       "name2": "HAM",
-      "country2": "Spain",
+      "country2": "United Kindom",
       "number2": "44",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/lewham011.web"
     },
     {
       "team": "4",
@@ -86,11 +86,11 @@
       "name1": "ALO",
       "country1": "Spain",
       "number1": "14",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/as.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/alo.webp",
       "name2": "STR",
       "country2": "Canada",
       "number2": "18",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/as.webp"
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/str.webp"
     },
     {
       "team": "5",
@@ -107,13 +107,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/FR.webp",
       "crimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/Cr/c.webp",
       "name1": "NOR",
-      "country1": "Monaco",
+      "country1": "United Kindom",
       "number1": "4",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/nor.webp",
       "name2": "PIA",
-      "country2": "Spain",
+      "country2": "Australia",
       "number2": "81",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/pia.webp"
     },
     {
       "team": "6",
@@ -130,13 +130,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/FR.webp",
       "crimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/Cr/.webp",
       "name1": "GAS",
-      "country1": "Monaco",
+      "country1": "France",
       "number1": "16",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/gas.webp",
       "name2": "DOO",
-      "country2": "Spain",
+      "country2": "Australia",
       "number2": "61",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/doo.webp"
     },
     {
       "team": "7",
@@ -153,13 +153,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/FR.webp",
       "crimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/Cr/l.webp",
       "name1": "TSU",
-      "country1": "Monaco",
+      "country1": "Japan",
       "number1": "22",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp",
+      "image1": "ttps://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/tsu.webp",
       "name2": "HAD",
-      "country2": "Spain",
-      "number2": "55",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+      "country2": "France",
+      "number2": "6",
+      "image2": "ttps://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/had.webp"
     },
     {
       "team": "8",
@@ -176,13 +176,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/FR.webp",
       "crimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/Cr/k.webp",
       "name1": "HUL",
-      "country1": "Monaco",
-      "number1": "16",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp",
+      "country1": "Germany",
+      "number1": "27",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/nichul011.webp",
       "name2": "BOR",
-      "country2": "Spain",
-      "number2": "55",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+      "country2": "Brazil",
+      "number2": "5",
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/gabbor011.webp"
     },
     {
       "team": "9",
@@ -199,13 +199,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/FR.webp",
       "crimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/Cr/w.webp",
       "name1": "ALB",
-      "country1": "Monaco",
+      "country1": "Thailand",
       "number1": "23",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/alb.webp",
       "name2": "SAI",
       "country2": "Spain",
       "number2": "55",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/carsai011.webp"
     },
     {
       "team": "10",
@@ -222,13 +222,13 @@
       "tmimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/FR.webp",
       "crimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/Cr/h.webp",
       "name1": "OCO",
-      "country1": "Monaco",
+      "country1": "France",
       "number1": "31",
-      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv1/fr.webp",
+      "image1": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/estoco011.webp",
       "name2": "BEA",
-      "country2": "Spain",
+      "country2": "United Kindom",
       "number2": "50",
-      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Drv2/fr.webp"
+      "image2": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bea.webp"
     }
   ]
 }
