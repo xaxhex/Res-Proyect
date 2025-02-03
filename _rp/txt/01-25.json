@@ -67,7 +67,7 @@
       "wins": "0",
       "podiums": "0",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/andant011.webp",
-      "numimage": "",
+      "numimage": "null",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/MR.webp",
       "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Italy.webp",
       "colortm" : "#26f5d2"
@@ -247,7 +247,7 @@
       "wins": "0",
       "podiums": "0",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/isahad01.webp",
-      "numimage": "",
+      "numimage": "null",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/VRB.webp",
       "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp",
       "colortm" : "#6592ff"
@@ -265,7 +265,7 @@
       "wins": "0",
       "podiums": "0",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/nichul011.webp",
-      "numimage": "",
+      "numimage": "null",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/ST.webp",
       "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Germany.webp",
       "colortm" : "#52e252"
@@ -282,9 +282,9 @@
       "position": "26",
       "wins": "0",
       "podiums": "0",
-      "image": "",
-      "numimage": "",
-      "tmimage" : "",
+      "image": "null",
+      "numimage": "null",
+      "tmimage" : "null",
       "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Brazil.webp",
       "colortm" : "#52e252"
     },
@@ -301,7 +301,7 @@
       "wins": "4",
       "podiums": "27",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/carsai011.webp",
-      "numimage": "",
+      "numimage": "null",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/WL.webp",
       "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/Spain.webp",
       "colortm" : "#63c4ff"
@@ -337,7 +337,7 @@
       "wins": "1",
       "podiums": "4",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/estoco011.webp",
-      "numimage": ",
+      "numimage": "null",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/bn/HS.webp",
       "location" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/refs/heads/main/_rp/Drvr/lcation/France.webp",
       "colortm" : "#b6babd"
