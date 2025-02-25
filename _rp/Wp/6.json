@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": 1,
+    "name": "Hadjar 2025",
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/6/202424403.png",
+    "lock": "no"
+  },
+  {
+    "id": 2,
+    "name": "Hadjar 2025",
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/6/202424402.png",
+    "lock": "no"
+  },
+  {
+    "id": 3,
+    "name": "Hadjar 2025",
+    "url": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Wp/6/202424403.png",
+    "lock": "yes"
+  }
+]
